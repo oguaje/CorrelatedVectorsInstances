@@ -4,7 +4,7 @@
 
 All files are named as follows:
 
-[Number of random Variables]Vars_[Number of observations]_[Number of discrete variables]_[Number of continuous variables] _[ Number of replication].txt
+[Number of random Variables]Vars_[Number of observations]\_[Number of discrete variables]\_[Number of continuous variables]\_[ Number of replication].txt
 
 # File Structure
 All files contain:
